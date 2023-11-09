@@ -25,5 +25,4 @@ In this activity, I used a new calc function and re-used previous CSS property c
 
 ## Author
 
-- LinkedIn - [Jennifer](https://www.linkedin.com/in/jennifer464/)
-- Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
+- LinkedIn - [Jennifer](https://www.linkedin.com/in/jen464/)
