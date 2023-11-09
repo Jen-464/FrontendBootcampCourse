@@ -23,7 +23,7 @@ CHALLENGE: I decided to give myself a challenge and figure out how the hamburger
 
 ### Solution
 
-- Activity URL: [The Activity](https://jennifer-464.github.io/web-dev-bootcamp/3-MediaQuery-Practice)
+- Activity URL: [The Activity](https://jen-464.github.io/FrontendBootcampCourse/HTML-CSS-JS/challenge4-media-queries/)
 
 <img src="http://g.recordit.co/LHpSoFeieA.gif" width="800px"><br><br>
 
@@ -48,5 +48,4 @@ CHALLENGE: With the challenge, I ended up mostly reviewing on transitions and z-
 
 ## Author
 
-- LinkedIn - [Jennifer](https://www.linkedin.com/in/jennifer464/)
-- Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
+- LinkedIn - [Jennifer](https://www.linkedin.com/in/jen464/)
