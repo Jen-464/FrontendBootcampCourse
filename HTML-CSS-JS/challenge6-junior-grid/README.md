@@ -36,7 +36,7 @@ Users s hould be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://jennifer-464.github.io/front-end-activities/HTML-CSS-JS/Challenges/challenge4-junior-grid/)
+- Solution URL: [My Solution](https://jen-464.github.io/FrontendBootcampCourse/HTML-CSS-JS/challenge6-junior-grid/)
 
 
 
@@ -76,8 +76,7 @@ For my programming skills with JavaScript, I will occasionally dive into as I've
 
 ## Author
 
-- Website - [Jennifer](https://jennifer-464.github.io/front-end-activities/HTML-CSS-JS/Challenges/challenge4-junior-grid/)
-- Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
+- LinkedIn - [@Jennifer-464](https://www.linkedin.com/in/jen464/)
 
 
 ## Acknowledgments
