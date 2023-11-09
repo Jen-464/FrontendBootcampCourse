@@ -76,7 +76,7 @@ For my programming skills with JavaScript, I will occasionally dive into as I've
 
 ## Author
 
-- LinkedIn - [@Jennifer-464](https://www.linkedin.com/in/jen464/)
+- LinkedIn - [@Jen464](https://www.linkedin.com/in/jen464/)
 
 
 ## Acknowledgments
