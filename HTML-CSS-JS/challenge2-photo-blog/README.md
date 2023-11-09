@@ -18,7 +18,7 @@ In this activity, I used a new calc function and re-used previous CSS property c
 
 ### Solution
 
-- Solution URL: [My Solution](https://jennifer-464.github.io/web-dev-bootcamp/1-Photo-Blog)
+- Solution URL: [My Solution](https://jen-464.github.io/FrontendBootcampCourse/HTML-CSS-JS/challenge2-photo-blog/)
 
 <img src="./img/view-desktop.png" height="800px"><br>
 
