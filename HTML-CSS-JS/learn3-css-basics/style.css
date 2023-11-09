@@ -1,0 +1,94 @@
+/* selects all <p> descendants inside #main */
+#main p {
+    color: green;
+}
+
+/* selects all DIRECT <p> children in #main */
+#main > p {
+    color: blue;
+}
+
+/* To avoid if HTML structure will change */
+/* Adjacent sibling selector - selecting all <p> adjacent to <ul> */
+/* https://www.w3schools.com/css/css_combinators.asp */
+ul + p {
+    /* color doesn't work as lines 2 & 7 take precedence */
+    /* except if important used, which overrides everything */
+    background-color: black;
+    color: white !important;
+}
+
+
+
+/* selects only <p> with class="regular-text" */
+p[class="regular-text"] {
+    color: orange;
+}
+
+
+/*
+Determine specificity for precedence
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+attributes ==> [type="radio"]
+pseudo-classes ==> :hover
+pseudo-elements ==> ::before
+
+IDs    (#) - 100
+Class  (., att, p-c) - 010
+Type   (tag, p-e) - 001
+
+*/
+
+ol #first-factor { /* 101 */
+    color: blue;
+}
+
+#first-factor { /* 100 */
+    color: green;
+    /* overriden by line 39 */
+}
+
+
+#counter .second { /* 110 */
+    color: red;
+    /* overrides line 54 */
+}
+
+#counter li { /* 101 */
+    color: plum;
+}
+
+
+
+
+/*
+BOX MODEL
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
+*/
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 20px;
+    font-size: 2rem; /* 16 default * 2 = 32px*/
+}
+
+.rel-position {
+    position: relative;
+    width: 500px;
+}
+
+.abs-position {
+    position: absolute;
+    background-color: orange;
+    width: 100%;
+    font-size: 2em; /* .box font size * 2 = 64px */
+
+    /* if parent abs or rel, then will be based on parent */
+    /* else it will position to next parent with abs or rel */
+    /* if none, THEN it will position based on window vh & vw */
+    /* width: 20px;
+    height: 20px;
+    top: 20px;
+    right: 50px; */
+}
