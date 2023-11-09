@@ -7,4 +7,6 @@ The only thing I did adopt from [Zach's github](https://github.com/zachgoll/full
 Challenge: I had a hard time figuring out how to efficiently create an Accordion effect. I looked at Zach's github for inspiration and the code was a lot shorter than what I had in mind with removeChild(), so I took that approach instead.
 
 ### Website Walkthrough GIF
+[Website Link](https://jen-464.github.io/FrontendBootcampCourse/HTML-CSS-JS/challenge2-photo-blog/)
+<br><br>
 <img src="generator.gif" width="800px"><br>
